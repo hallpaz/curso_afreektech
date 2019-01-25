@@ -1,0 +1,82 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+    /* background: url("../img/YouTube2017_PythonCafeArt_Template.png"); */
+}
+
+.container {
+    width: 80%;
+    height: auto;
+    margin: 12px auto;
+    /* border-style: dashed; */
+    border-width: 2px;
+    border-color: black;
+    overflow: hidden;
+}
+
+.sobre {
+    max-width: 45%;
+    margin: 0 8px;
+    float: left;
+}
+
+.depoimentos {
+    max-width: 45%;
+    float: left;
+    margin: 0 8px;
+}
+
+.mensagem {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 56px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.inversed_title {
+    font-size: 56px;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+
+.inversed_p {
+    font-family: sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+.people {
+    max-width: 256px;
+    height: auto;
+    float: left;
+}
+
+#avatar {
+    width: 256px;
+    height: auto;
+}
+
+#depoimentos {
+    background:#303030;
+}
+
+#logo {
+    max-width: 256px;
+    height: auto;
+}
+
+p {
+    font-family: sans-serif;
+}
+
